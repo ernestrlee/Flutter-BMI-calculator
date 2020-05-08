@@ -1,4 +1,4 @@
-#BMI Calculator
+# BMI Calculator
 
 This BMI (Body Mass Index) is a project built from a lesson from App Brewery's Complete Flutter Development Bootcamp.  It uses customized flutter widgets.
 
